@@ -1,3 +1,5 @@
+A simple wrapper that intercepts and logs malloc/free function calls for debugging purposes.
+
 ### Requirements
 
 - `libdl.so` (requires dynamic linking library for dlsym functionality)
