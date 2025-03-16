@@ -2,7 +2,6 @@ A simple wrapper that intercepts and logs malloc/free function calls for debuggi
 
 ### Requirements
 
-- `libdl.so` (requires dynamic linking library for dlsym functionality)
 - CMake 3.30 or newer
 - C Compiler with C11 standard support
 
